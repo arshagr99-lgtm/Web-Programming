@@ -1,0 +1,44 @@
+1. DOWNLOAD AND INSTALL XAMPP
+
+2  DIRECTORY - CHECK
+
+3. ADD PHP TO PATH VARIABLE USING EDIT SYSTEM ENVIORNMENT VARIABLES
+
+4. ADD PATH TO BOTH USER AND SYSTEM ENVIORNMENT VARIABLES 
+
+         C:\xampp\php
+
+5. CHECK PHP INSTALLATION USING CMD WITH THE FOLLOWING COMMAND
+
+             php --version
+
+6. MAKE CMD INTERACTIVE USING THE FOLLOWING COMMAND
+
+             php -a
+
+7. How to Execute php file using CMD
+
+     make a folder inside C:\xampp\htdocs - example folder name is CLI
+
+     create a php file inside CLI folder
+
+8. How to run php
+
+     php  filename.php
+
+
+How to Execute php using web server
+
+1. Open xampp control panel 
+
+2. Start Apache Server.
+
+3. Go to any web browser as your wish and type localhost/dashboard.
+
+4. Server points to  C:\xampp\htdocs folder
+
+5. create a folder inside htdocs named web.
+
+6. Create php embedded html (place php code inside html body tag) file in web folder
+
+    
